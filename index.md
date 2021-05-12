@@ -8,7 +8,7 @@
       <p><b>地址：天津市北辰区双口镇</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/B612Kaji_20201108_190316_399.jpg ">
     </td>
   </tr>
 </table>
